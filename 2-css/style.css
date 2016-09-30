@@ -1,0 +1,43 @@
+body {
+  margin: 0 auto;
+}
+
+.topbar {
+  width: 100%;
+  margin: 0 auto;
+  height: 40px;
+}
+
+.navbar {
+  width: 100%;
+  margin-top: 0 auto;
+  background-color: #BB1919;
+  height: 50px;
+}
+
+.nav-menu {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #A91717;
+  height: 30px;
+
+}
+
+.logo {
+  margin-top: 8px;
+  margin-right: 8px;
+  width: 100px;
+  float: left;
+}
+
+.topbar-section {
+  float:left;
+  border-left: 1px #CCCCCC solid;
+  height: 100%;
+}
+
+.sign-in-icon {
+  width: 25px;
+
+  margin: 10px 15px;
+}
