@@ -4,7 +4,7 @@ body {
 }
 
 #topbar {
-  width: 100%;
+  width: 1100px;
   margin: 0 auto;
   height: 40px;
 }
@@ -69,4 +69,28 @@ body {
   font-weight: bold;
   padding: 13px 15px 0 15px;
   height: 27px;
+}
+
+.down_arrow {
+  width: 10px;
+  margin-left: 10px;
+}
+
+#search-input{
+  background-color: #CBC9CB;
+  border: none;
+  width: 150px;
+  height: 20px;
+  margin:5px 0 5px 5px;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 5px;
+  float: left;
+
+}
+
+#search-icon{
+  width: 20px;
+  margin: 10px;
+
 }
