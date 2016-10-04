@@ -94,3 +94,24 @@ body {
   margin: 10px;
 
 }
+
+#nav-container{
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.nav-section{
+  border-right: 1px solid white;
+  color: white;
+  float: left;
+  padding: 0 8px 0 8px;
+  margin: 5px 0 5px 0;
+}
+
+.nav-section-last {
+  border right: none;
+  color: white;
+  float: left;
+  padding: 0 8px 0 8px;
+  margin: 5px 0 5px 0;
+}
