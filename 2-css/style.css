@@ -79,7 +79,7 @@ body {
 #search-input{
   background-color: #CBC9CB;
   border: none;
-  width: 150px;
+  width: 190px;
   height: 20px;
   margin:5px 0 5px 5px;
   font-weight: bold;
@@ -129,9 +129,11 @@ h1 {
 }
 
 #local-find{
-  margin: 5px auto;
-  padding-top: 5px;
+  margin: 7px 10px 0 0;
+  padding: 5px 5px 0 5px;
   float: right;
+  width: 180px;
+  border: 1px #BB4535 solid;
 }
 
 #local-find a {
